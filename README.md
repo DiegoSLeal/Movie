@@ -11,4 +11,6 @@
 * Dao
 * Injeção de dependência
 * Inversão de controle
+* Coroutines
+* Glide
 * Retrofit
